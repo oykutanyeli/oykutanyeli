@@ -1,5 +1,5 @@
  ![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
- <h1 align="center">Merhaba ben Öykü Tanyeli</h1><h3 align="center">Türkiye'den tutkulu bir Jr.Software geliştiricisiyim</h3>- Bana nasıl ulaşılır? **oyku.tanyeli@gmail.com**
+ <h1 align="center">Merhaba ben Öykü Tanyeli</h1><h3 align="center">I am a passionate Jr.Software developer from Turkey</h3>- How to reach me? **oyku.tanyeli@gmail.com**
 
 <h3 align="left">Benimle bağlantı kurun:</h3><p align="left">
 
