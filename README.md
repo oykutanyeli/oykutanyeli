@@ -1,11 +1,6 @@
 
  ![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
 
- <div style="text-align: center;">
-  <img src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" alt="MasterHead" />
-</div>
-
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
