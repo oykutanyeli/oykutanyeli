@@ -1,4 +1,18 @@
+
  ![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
+
+ <div style="text-align: center;">
+  <img src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" alt="MasterHead" />
+</div>
+
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Öykü+TANYELİ+🌟;I'm+a+Jr.+Software+Developer+💻;I'm+constantly+improving+my+skills+😊;Thanks+for+visiting+my+profile"
+       alt="Typing SVG" />
+</a>
+
  <h1 align="center">Hi I'm Öykü Tanyeli</h1><h3 align="center">I am a passionate Jr.Software developer from Turkey</h3>- How to reach me? **oyku.tanyeli@gmail.com**
 
 <h3 align="left">Contact me:</h3><p align="left">
