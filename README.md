@@ -8,7 +8,7 @@
        alt="Typing SVG" />
 </a>
 
- <h1 align="center">Hi I'm Öykü Tanyeli</h1><h3 align="center">I am a passionate Jr.Software developer from Turkey</h3>- How to reach me? **oyku.tanyeli@gmail.com**
+ <h1 align="center">Hi I'm Öykü Tanyeli</h1><h3 align="center">I am a passionate Jr.Software developer from Turkey</h3>- How to reach me? **oyku.tanyelii@gmail.com**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
